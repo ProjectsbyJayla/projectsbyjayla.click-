@@ -10,7 +10,7 @@
 <body>
   <div class="container">
     <header>
-      <h1>NAME</h1> Jayla Johnson
+      <h1>Jayla Johnson</h1> 
       <p class="title"> IT Graduate pursuing a passion for cybersecurity and developing skills in all things Technology.</p>
       <p>Email:JaylabJohnson@gmail.com| Phone:(708)-506-0804</p>
     </header>
@@ -92,7 +92,6 @@
       <h2>Project Resources</h2>
       <p>You can find documentation for this entire resume project here!Thank you for visiting my Resume!😃</p>
     </section>
-  </div>
 <footer>
   <p>Connect with me:</p>
   <ul class="social-links">
@@ -102,7 +101,7 @@
       </a>
     </li>
     <li>
-      <a href="www.linkedin.com/in/jayla-johnson-910b4824a>
+      <a href="www.linkedin.com/in/jayla-johnson-910b4824a">
         <i class="fab fa-linkedin"></i> LinkedIn
       </a>
     </li>
